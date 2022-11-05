@@ -11,8 +11,6 @@ Go Chat is a basic terminal chat application built using Golang. The app sends d
 
 ## Table of contents
   - [Why Build This?](#why-build-this)
-  - [Setup](#setup)
-  - [Development](#development)
 	
 
 ## Why Build This?
